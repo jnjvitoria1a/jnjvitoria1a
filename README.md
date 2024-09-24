@@ -2,7 +2,7 @@ Boas vindas ao meu perfil 🦋🌻
 Meu nome é Vitória Messias.
 Sou estudante de Pensamento Computacional. Gosto de ler, escrever e desenhar! 
 Siga seus sonhos 
-<img src="/assets/img/loader-cat-dWUie0iIVk.htm">
+<img src="/assets/img/loader-cat.htm">
 
 
 
