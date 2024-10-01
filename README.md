@@ -1,7 +1,8 @@
 Bem vindos 🦋🌻
 - Meu nome é Vitória Messias.
-- Sou estudante de Pensamento Computacional. Gosto de ler, escrever e desenhar! 
-Siga seus sonhos
+- Sou estudante de Pensamento Computacional.
+-  Gosto de ler, escrever e desenhar!
+-  Siga seus sonhos
 🐹🌈📚
 
 ![](https://media1.tenor.com/m/hBOljSwQctcAAAAd/ball.gif)
